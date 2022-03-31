@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @inf0secdev
-- 👀 I’m interested in No one.
-- 🌱 I’m currently learning, Nothing.
-- 💞️ I’m looking to collaborate on, Yeah no.
-- 📫 How to reach me (You can't.)
+I do NOT care.
